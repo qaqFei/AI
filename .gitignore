@@ -1,0 +1,4 @@
+# /picksound/dataset/dataset.json
+/picksound/dataset/audios/*
+# /picksound/dataset/datas/bpm/*
+# /picksound/dataset/datas/picksound/*

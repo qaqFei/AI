@@ -1,0 +1,622 @@
+[
+    {
+        "startTime": 0.0,
+        "bpm": 250
+    },
+    {
+        "startTime": 25.919,
+        "bpm": 35
+    },
+    {
+        "startTime": 44.947,
+        "bpm": 250
+    },
+    {
+        "startTime": 46.147000000000006,
+        "bpm": 250
+    },
+    {
+        "startTime": 46.382000000000005,
+        "bpm": 251
+    },
+    {
+        "startTime": 46.621,
+        "bpm": 252
+    },
+    {
+        "startTime": 46.859,
+        "bpm": 253
+    },
+    {
+        "startTime": 47.096000000000004,
+        "bpm": 254
+    },
+    {
+        "startTime": 47.332,
+        "bpm": 255
+    },
+    {
+        "startTime": 47.567,
+        "bpm": 256
+    },
+    {
+        "startTime": 47.801,
+        "bpm": 257
+    },
+    {
+        "startTime": 48.034,
+        "bpm": 258
+    },
+    {
+        "startTime": 48.266000000000005,
+        "bpm": 259
+    },
+    {
+        "startTime": 48.497,
+        "bpm": 260
+    },
+    {
+        "startTime": 48.727000000000004,
+        "bpm": 261
+    },
+    {
+        "startTime": 48.956,
+        "bpm": 262
+    },
+    {
+        "startTime": 49.185,
+        "bpm": 263
+    },
+    {
+        "startTime": 49.413000000000004,
+        "bpm": 264
+    },
+    {
+        "startTime": 49.64,
+        "bpm": 265
+    },
+    {
+        "startTime": 49.867000000000004,
+        "bpm": 266
+    },
+    {
+        "startTime": 50.092000000000006,
+        "bpm": 267
+    },
+    {
+        "startTime": 50.316,
+        "bpm": 268
+    },
+    {
+        "startTime": 50.539,
+        "bpm": 269
+    },
+    {
+        "startTime": 50.762,
+        "bpm": 270
+    },
+    {
+        "startTime": 50.984,
+        "bpm": 271
+    },
+    {
+        "startTime": 51.205000000000005,
+        "bpm": 272
+    },
+    {
+        "startTime": 51.425000000000004,
+        "bpm": 273
+    },
+    {
+        "startTime": 51.644000000000005,
+        "bpm": 274
+    },
+    {
+        "startTime": 51.862,
+        "bpm": 275
+    },
+    {
+        "startTime": 52.080000000000005,
+        "bpm": 276
+    },
+    {
+        "startTime": 52.297000000000004,
+        "bpm": 277
+    },
+    {
+        "startTime": 52.513000000000005,
+        "bpm": 278
+    },
+    {
+        "startTime": 52.728,
+        "bpm": 279
+    },
+    {
+        "startTime": 52.943000000000005,
+        "bpm": 280
+    },
+    {
+        "startTime": 53.157000000000004,
+        "bpm": 281
+    },
+    {
+        "startTime": 53.372,
+        "bpm": 282
+    },
+    {
+        "startTime": 53.584,
+        "bpm": 283
+    },
+    {
+        "startTime": 53.796,
+        "bpm": 284
+    },
+    {
+        "startTime": 54.007000000000005,
+        "bpm": 285
+    },
+    {
+        "startTime": 54.217000000000006,
+        "bpm": 286
+    },
+    {
+        "startTime": 54.426,
+        "bpm": 287
+    },
+    {
+        "startTime": 54.635000000000005,
+        "bpm": 288
+    },
+    {
+        "startTime": 54.843,
+        "bpm": 289
+    },
+    {
+        "startTime": 55.050000000000004,
+        "bpm": 290
+    },
+    {
+        "startTime": 55.256,
+        "bpm": 291
+    },
+    {
+        "startTime": 55.462,
+        "bpm": 292
+    },
+    {
+        "startTime": 55.667,
+        "bpm": 293
+    },
+    {
+        "startTime": 55.872,
+        "bpm": 294
+    },
+    {
+        "startTime": 56.076,
+        "bpm": 295
+    },
+    {
+        "startTime": 56.279,
+        "bpm": 296
+    },
+    {
+        "startTime": 56.481,
+        "bpm": 297
+    },
+    {
+        "startTime": 56.685,
+        "bpm": 298
+    },
+    {
+        "startTime": 56.886,
+        "bpm": 299
+    },
+    {
+        "startTime": 57.086000000000006,
+        "bpm": 300
+    },
+    {
+        "startTime": 57.286,
+        "bpm": 301
+    },
+    {
+        "startTime": 57.485,
+        "bpm": 302
+    },
+    {
+        "startTime": 57.683,
+        "bpm": 303
+    },
+    {
+        "startTime": 57.881,
+        "bpm": 304
+    },
+    {
+        "startTime": 58.078,
+        "bpm": 305
+    },
+    {
+        "startTime": 58.275000000000006,
+        "bpm": 306
+    },
+    {
+        "startTime": 58.471000000000004,
+        "bpm": 307
+    },
+    {
+        "startTime": 58.666000000000004,
+        "bpm": 308
+    },
+    {
+        "startTime": 58.86,
+        "bpm": 309
+    },
+    {
+        "startTime": 59.054,
+        "bpm": 310
+    },
+    {
+        "startTime": 59.247,
+        "bpm": 311
+    },
+    {
+        "startTime": 59.439,
+        "bpm": 312
+    },
+    {
+        "startTime": 59.631,
+        "bpm": 313
+    },
+    {
+        "startTime": 59.824000000000005,
+        "bpm": 314
+    },
+    {
+        "startTime": 60.015,
+        "bpm": 315
+    },
+    {
+        "startTime": 60.205000000000005,
+        "bpm": 316
+    },
+    {
+        "startTime": 60.396,
+        "bpm": 317
+    },
+    {
+        "startTime": 60.585,
+        "bpm": 318
+    },
+    {
+        "startTime": 60.773,
+        "bpm": 319
+    },
+    {
+        "startTime": 60.961000000000006,
+        "bpm": 320
+    },
+    {
+        "startTime": 61.148,
+        "bpm": 321
+    },
+    {
+        "startTime": 61.336000000000006,
+        "bpm": 322
+    },
+    {
+        "startTime": 61.522000000000006,
+        "bpm": 323
+    },
+    {
+        "startTime": 61.707,
+        "bpm": 324
+    },
+    {
+        "startTime": 61.892,
+        "bpm": 325
+    },
+    {
+        "startTime": 62.078,
+        "bpm": 326
+    },
+    {
+        "startTime": 62.262,
+        "bpm": 327
+    },
+    {
+        "startTime": 62.445,
+        "bpm": 328
+    },
+    {
+        "startTime": 62.627,
+        "bpm": 329
+    },
+    {
+        "startTime": 62.816,
+        "bpm": 330
+    },
+    {
+        "startTime": 62.997,
+        "bpm": 331
+    },
+    {
+        "startTime": 63.178,
+        "bpm": 332
+    },
+    {
+        "startTime": 63.358000000000004,
+        "bpm": 333
+    },
+    {
+        "startTime": 63.538,
+        "bpm": 334
+    },
+    {
+        "startTime": 63.717,
+        "bpm": 335
+    },
+    {
+        "startTime": 63.896,
+        "bpm": 336
+    },
+    {
+        "startTime": 64.074,
+        "bpm": 337
+    },
+    {
+        "startTime": 64.256,
+        "bpm": 338
+    },
+    {
+        "startTime": 64.433,
+        "bpm": 339
+    },
+    {
+        "startTime": 64.60900000000001,
+        "bpm": 340
+    },
+    {
+        "startTime": 64.785,
+        "bpm": 341
+    },
+    {
+        "startTime": 64.96000000000001,
+        "bpm": 342
+    },
+    {
+        "startTime": 65.135,
+        "bpm": 343
+    },
+    {
+        "startTime": 65.309,
+        "bpm": 344
+    },
+    {
+        "startTime": 65.483,
+        "bpm": 345
+    },
+    {
+        "startTime": 65.658,
+        "bpm": 346
+    },
+    {
+        "startTime": 65.831,
+        "bpm": 347
+    },
+    {
+        "startTime": 66.003,
+        "bpm": 348
+    },
+    {
+        "startTime": 66.175,
+        "bpm": 349
+    },
+    {
+        "startTime": 66.346,
+        "bpm": 350
+    },
+    {
+        "startTime": 66.517,
+        "bpm": 351
+    },
+    {
+        "startTime": 66.687,
+        "bpm": 352
+    },
+    {
+        "startTime": 66.857,
+        "bpm": 353
+    },
+    {
+        "startTime": 67.032,
+        "bpm": 354
+    },
+    {
+        "startTime": 67.2,
+        "bpm": 355
+    },
+    {
+        "startTime": 67.369,
+        "bpm": 356
+    },
+    {
+        "startTime": 67.539,
+        "bpm": 357
+    },
+    {
+        "startTime": 67.70700000000001,
+        "bpm": 358
+    },
+    {
+        "startTime": 67.87400000000001,
+        "bpm": 359
+    },
+    {
+        "startTime": 68.041,
+        "bpm": 360
+    },
+    {
+        "startTime": 68.20700000000001,
+        "bpm": 361
+    },
+    {
+        "startTime": 68.382,
+        "bpm": 362
+    },
+    {
+        "startTime": 68.547,
+        "bpm": 363
+    },
+    {
+        "startTime": 68.712,
+        "bpm": 364
+    },
+    {
+        "startTime": 68.876,
+        "bpm": 365
+    },
+    {
+        "startTime": 69.044,
+        "bpm": 366
+    },
+    {
+        "startTime": 69.20700000000001,
+        "bpm": 367
+    },
+    {
+        "startTime": 69.37,
+        "bpm": 368
+    },
+    {
+        "startTime": 69.533,
+        "bpm": 369
+    },
+    {
+        "startTime": 69.69500000000001,
+        "bpm": 370
+    },
+    {
+        "startTime": 69.857,
+        "bpm": 371
+    },
+    {
+        "startTime": 70.018,
+        "bpm": 372
+    },
+    {
+        "startTime": 70.179,
+        "bpm": 373
+    },
+    {
+        "startTime": 70.339,
+        "bpm": 374
+    },
+    {
+        "startTime": 70.49900000000001,
+        "bpm": 375
+    },
+    {
+        "startTime": 70.659,
+        "bpm": 376
+    },
+    {
+        "startTime": 70.818,
+        "bpm": 377
+    },
+    {
+        "startTime": 70.98700000000001,
+        "bpm": 378
+    },
+    {
+        "startTime": 71.145,
+        "bpm": 379
+    },
+    {
+        "startTime": 71.303,
+        "bpm": 380
+    },
+    {
+        "startTime": 71.46000000000001,
+        "bpm": 381
+    },
+    {
+        "startTime": 71.617,
+        "bpm": 382
+    },
+    {
+        "startTime": 71.774,
+        "bpm": 383
+    },
+    {
+        "startTime": 71.93,
+        "bpm": 384
+    },
+    {
+        "startTime": 72.086,
+        "bpm": 385
+    },
+    {
+        "startTime": 72.241,
+        "bpm": 386
+    },
+    {
+        "startTime": 72.396,
+        "bpm": 387
+    },
+    {
+        "startTime": 72.551,
+        "bpm": 388
+    },
+    {
+        "startTime": 72.705,
+        "bpm": 389
+    },
+    {
+        "startTime": 72.85900000000001,
+        "bpm": 390
+    },
+    {
+        "startTime": 73.012,
+        "bpm": 391
+    },
+    {
+        "startTime": 73.165,
+        "bpm": 392
+    },
+    {
+        "startTime": 73.318,
+        "bpm": 393
+    },
+    {
+        "startTime": 73.47,
+        "bpm": 394
+    },
+    {
+        "startTime": 73.622,
+        "bpm": 395
+    },
+    {
+        "startTime": 73.773,
+        "bpm": 396
+    },
+    {
+        "startTime": 73.924,
+        "bpm": 397
+    },
+    {
+        "startTime": 74.075,
+        "bpm": 398
+    },
+    {
+        "startTime": 74.22500000000001,
+        "bpm": 399
+    },
+    {
+        "startTime": 74.375,
+        "bpm": 200
+    },
+    {
+        "startTime": 79.175,
+        "bpm": 250
+    }
+]
