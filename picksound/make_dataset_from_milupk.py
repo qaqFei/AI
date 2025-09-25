@@ -57,7 +57,7 @@ for chart in listdir(f"{sys.argv[1]}/Packed"):
             for line in chartJson["lines"]:
                 for note in line["notes"]:
                     if note["isFake"]: continue
-                    picksoundData.add(note["startTime"] - offset)
+                    picksoundData.add(note["startTime"] + offset)
                 
             picksoundData = sorted(list(picksoundData))
                 

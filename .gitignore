@@ -2,3 +2,5 @@
 /picksound/dataset/audios/*
 # /picksound/dataset/datas/bpm/*
 # /picksound/dataset/datas/picksound/*
+
+__pycache__
